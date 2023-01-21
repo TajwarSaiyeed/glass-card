@@ -1,3 +1,4 @@
+![bg-image](https://github.com/TajwarSaiyeed/glass-card/blob/main/gitbg.png)
 
 ```
 Glass-Card
